@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་གཅོད་ཀྱི་མན་ངག་གི་གཞུང་བཀའ་ཚོམས་ཆེན་མོ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མ་གཅིག་ལབ་ཀྱི་སྒྲོན་མ།
+  sku: LS-CHD-07-04
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: The Great Treasury of Teachings:A Profound Upadeśa of Chod Prajñāpāramitā
+    bo: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་གཅོད་ཀྱི་མན་ངག་གི་གཞུང་བཀའ་ཚོམས་ཆེན་མོ་བཞུགས་སོ།
+  collection:
+    en: Chod Series–  Book 7-4
+    bo: གཅོད་ཡུལ།–  དེབ། ༧-༤
+  author:
+    en: Machig Lapkyi Dronma
+    bo: མ་གཅིག་ལབ་ཀྱི་སྒྲོན་མ།
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-CHD-07-04
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-CHD-07-04.epub
+  description:
+    en: ''
+    bo: ''
